@@ -6,4 +6,4 @@ then use brainfuck [relative of absolute path] filename.bf
 
 or
 
-brainfuck and we enter shell mode
+use only brainfuck,  and we enter shell mode
